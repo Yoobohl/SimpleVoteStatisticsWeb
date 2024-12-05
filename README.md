@@ -1,6 +1,6 @@
 # Simple Vote Statistics Web
 
-EN | [简体中文](doc/zh_cn.md)
+EN | [简体中文](doc/ZH_CN.md)
 
 ## Introduction
 90% of the code in this project was completed by AI
